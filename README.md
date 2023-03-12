@@ -1,5 +1,7 @@
 # Password Generator
 
+https://monicaclarelewis.github.io/password-generator/
+
 ## Description
 This password generator allows the user to select the length and parameters of their password. It can be between 8 and 64 characters, with the option to have uppercase, lowercase, numberic and special characters. The generator then creates a random password that is displayed on the page.
 This generator allows user to create stronger passwords as many times as they like.
